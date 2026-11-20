@@ -1,0 +1,7 @@
+# OpenDota response cache written by the notebook (about 500 JSON files)
+cache/
+# files rebuilt by every run
+matches_index.csv
+features_per_minute.csv
+.ipynb_checkpoints/
+__pycache__/
